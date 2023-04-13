@@ -15,6 +15,21 @@ Username :- admin <br>
 Password :- admin@123 <br>
 Press the Enter. User Successfully Loged In, if you want to logout click on Logout Button in a Home page.
 
+## Overview
+
+We'll design a login page using HTML and CSS. A login page in HTML collects information from the user and has a submit button to send the details for server-side operations. However, our objective here is to design a login page and not to deal with the backend tasks.
+
+## Pre-requisites
+- HTML forms
+- CSS
+- Flexbox and its properties
+- JavaScript
+
+## What Are We Creating?
+
+The login page uses HTML and CSS for the structuring and styling. We'll first create the simple structure with HTML and then move to make it look great with CSS. This is what our final output will look like:
+
+
 ## HTML
 
 We’ll start with the HTML, as it is the one responsible for the information displayed in the page. In other words, first we will write and structure all the information contained in the page without worrying for style (CSS) or interactivity (JavaScript). Analyse the complete HTML file for as long as you want and when you’re ready move on to the explanation. <br>
