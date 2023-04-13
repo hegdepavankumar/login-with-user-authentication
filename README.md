@@ -41,6 +41,15 @@ For starters, we get all the elements that we’ll need to work with using JavaS
 | [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 
-           Hey Everyone Please give a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forgot to fork the repo....
-          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Thank you~~~🙏😍~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<br>
+
+
+ <!-- Support Me --> 
+
+ 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
   
