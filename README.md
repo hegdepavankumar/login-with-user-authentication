@@ -2,9 +2,9 @@
 # login-with-user-authentication
 
 
-![GitHub](https://img.shields.io/github/license/imhegde/login-with-user-authentication?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/imhegde/login-with-user-authentication?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/login-with-user-authentication?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/login-with-user-authentication?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/login-with-user-authentication?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/login-with-user-authentication?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/login-with-user-authentication.svg?cache=remove)
 
 ## Output
@@ -12,7 +12,7 @@
 
 <br>
 
-* Live Preview : [here](https://imhegde.github.io/login-with-user-authentication/)
+* Live Preview : [here](https://hegdepavankumar.github.io/login-with-user-authentication/)
 
 ## How to Login?
 Username :- admin <br>
@@ -38,7 +38,7 @@ The login page uses HTML and CSS for the structuring and styling. We'll first cr
 
 We’ll start with the HTML, as it is the one responsible for the information displayed on the page. In other words, first, we will write and structure all the information contained in the page without worrying about style (CSS) or interactivity (JavaScript). Analyze the complete HTML file for as long as you want and when you’re ready move on to the explanation. <br>
 
-As usual in HTML files, we have two parts: the <head> and the <body> . The former includes metainformation about our web page, like the character encoding used, the title of the page (the name you see in the tab of your browser), and references to the CSS and JavaScript files that this HTML file will make use of. Note that there’s a defer attribute in the <script> tag so that the JavaScript script is only executed after the HTML is fully loaded. 
+As usual in HTML files, we have two parts: the <head> and the <body>. The former includes metainformation about our web page, like the character encoding used, the title of the page (the name you see in the tab of your browser), and references to the CSS and JavaScript files that this HTML file will make use of. Note that there’s a defer attribute in the <script> tag so that the JavaScript script is only executed after the HTML is fully loaded. 
   
 ## CSS
 Now we have the CSS, in other words, the style of our page. To modify each element in our HTML file, we can select them using ids, classes, or the tag names themselves, though the last option is discouraged. You see, the styles of more specific CSS selectors overwrite the styles of less specific ones. For example, the styles of an id selector overwrite those of a class selector, and class selector styles overwrite those of a tag name selector. In other words, always make your CSS selectors as specific as possible to affect only the elements you want to be affected.  
@@ -55,9 +55,9 @@ For starters, we get all the elements that we’ll need to work with using JavaS
 
 ## Creator [🔝](# login-with-user-authentication)
 
-(https://github.com/imhegde). This Project is Created by:-
+(https://github.com/hegdepavankumar). This Project is Created by:-
 
-| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 
 <br>
@@ -70,5 +70,5 @@ For starters, we get all the elements that we’ll need to work with using JavaS
  
 if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/imhegde" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
   
